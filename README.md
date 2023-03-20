@@ -7,7 +7,6 @@ When the program starts, it prompts the user to enter either "Y" to play or "N" 
 ## Sample Output
 
 ```
-Copy code
 Rock... Paper... Scissors!
 
 Y to play         N to exit
